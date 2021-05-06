@@ -3,6 +3,7 @@
         --body: #151437;
         --text: #fff;
         --dots: #ebebeb;
+        --footer-link: #fff;
     }
     
     .logo::before {
